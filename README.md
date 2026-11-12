@@ -1,5 +1,3 @@
-[![Open In Colab](https://google.com)](https://google.com)
-
 
 # 📊 Análise e Previsão de Séries Temporais com Prophet
 

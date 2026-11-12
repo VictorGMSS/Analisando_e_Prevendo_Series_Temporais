@@ -1,3 +1,6 @@
+[![Open In Colab](https://google.com)](https://google.com)
+
+
 # 📊 Análise e Previsão de Séries Temporais com Prophet
 
 Projeto prático desenvolvido durante o curso **"Data Science: Analisando e prevendo séries temporais"**. O objetivo deste repositório é aplicar técnicas completas de ciência de dados para limpeza, análise exploratória, testes de hipóteses estatísticas, tratamento de outliers e modelagem preditiva de demanda de aluguel de bicicletas utilizando a biblioteca **Prophet** (Meta).

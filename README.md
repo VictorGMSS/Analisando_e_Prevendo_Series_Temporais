@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VictorGMSS/Analisando_e_Prevendo_Series_Temporais/blob/main/Series_temporais_com_Prophet.ipynb)
 
-Projeto prático desenvolvido durante o curso **"Data Science: Analisando e prevendo séries temporais"**. O objetivo deste repositório é aplicar técnicas completas de ciência de dados para limpeza, análise exploratória, testes de hipóteses estatísticas, tratamento de outliers e modelagem preditiva de demanda de aluguel de bicicletas utilizando a biblioteca **Prophet** (Meta).
+Projeto prático desenvolvido durante o curso na **"Alura"**. O objetivo deste repositório é aplicar técnicas completas de ciência de dados para limpeza, análise exploratória, testes de hipóteses estatísticas, tratamento de outliers e modelagem preditiva de demanda de aluguel de bicicletas utilizando a biblioteca **Prophet** (Meta).
 
 ---
 
